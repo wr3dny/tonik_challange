@@ -16,3 +16,5 @@ bun dev
 ## Next.js Coding Challange for Tonik
 
 1. commit - set tooling and app
+2. commit - front page ( rather ugly , but still )
+3. commit - last one. This time limit is definitely over my skills. But still quite interesting task. 
